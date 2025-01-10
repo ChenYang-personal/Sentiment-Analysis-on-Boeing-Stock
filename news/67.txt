@@ -1,0 +1,47 @@
+Boeing and the Automation Standoff
+A plane maker has too many constituencies to please, and it doesn’t help safety.
+Holman W. Jenkins, Jr.
+By 
+Holman W. Jenkins, Jr.
+Follow
+Jan. 9, 2024 5:32 pm ET
+
+
+
+
+353
+
+Gift unlocked article
+
+Listen
+
+(5 min)
+
+
+
+The missing door plug on Alaska Airlines Flight 1282, on a Boeing 737-9 MAX commercial aircraft in Portland, Ore., Jan. 7. Photo: Ntsb/National Transportation/Zuma Press
+Door plugs aren’t anything new—Airbus uses them to seal off unneeded passenger exits in certain configurations of its A320 and A380 models. For that matter, a door plug and a door work similarly. If either fails, it likely wasn’t properly fastened. In the case of last week’s near-disaster involving an Alaska Airlines Boeing 737 MAX, suspicion is doubly heightened by a subsequent discovery by United Airlines of certain bolts that “needed additional tightening.”
+
+The plug blew out at 16,500 feet. Luckily no passenger was seated nearby. Luckily the blowout didn’t occur at a higher altitude causing a more explosive decompression.
+
+Eventually a culprit will be named. Over the holidays Boeing also appealed quietly for a safety exemption for its forthcoming MAX 7. Like some MAX models already in service, its anti-icing system is prone to overheating and breaking apart if left on five minutes too long, posing a small risk of catastrophic damage. Boeing’s proposed temporary fix? Instruct pilots to remember to turn off a system they were long told was OK to leave on.
+
+Which naturally raises a question: Is something systematically wrong with the way Boeing is organized or led? For finance types, that question has percolated partly because of the two crashes of its then-debuting 737 MAX, but also because of the company’s hesitancy to commit to designing a new “clean sheet” plane, something it hasn’t attempted in 20 years.
+
+There are lots of theories. Boeing, since the MAX disasters, has only become more driven by its relations with government. For both the company and the Federal Aviation Administration, the MAX affair was a scalding experience. The agency’s standards for certifying a new jet have been in dramatic flux ever since, not to say highly politicized.
+
+Too, Boeing is a giant defense contractor, a business with its own problems. It may not be self-evident exactly how but a company that survived entirely on the confidence of airlines and their passengers might be making different decisions.
+
+Then there’s its duopoly with Airbus. Boeing’s customers need Boeing every bit as much as Boeing needs them. Customers have been compelled to nurse the relationship along despite five-year delivery delays on even unrelated models as a result partly of the MAX catastrophe.
+
+In fact, Boeing recently turned a corner in terms of deliveries and new sales, but still faces a perhaps permanent market-share loss vs. Airbus in the bread-and-butter niche defined by the 737, whose revenues underwrite so much of what the company does.
+
+Surprising, then, given its commanding lead in this key niche, was Airbus’s promise to take the plunge itself and launch an all-new plane by decade’s end. We’ll see. Boeing’s case for delay rests on changing technology and fear that a new plane might soon be obsolete. A less-spoken factor is the unpredictable, evolving government standards for getting such a plane approved in the U.S., China, India and Europe.
+
+On top of this comes the challenge of learning to mass-produce a very different kind of airplane, plus getting airlines and airports ready to accept it. Engines of significantly larger diameter, with open-air whirring blades, will likely be needed along with higher wings to support them. The wings will be longer and slenderer to give more lift with less drag, creating new problems for maintenance and ground handling.
+
+Uneconomic burdens will certainly be imposed in the name of climate change, such as bans, subsidies and mandates aimed at various favored and disfavored technologies. Never mind that, in one of history’s great policy and political wrong turns, we already know this will have no effect on climate change.
+
+Then there’s the knottiest issue: By all accounts, the Alaska Airlines crew performed magnificently and yet the advance of drone technology and a global pilot shortage point in only one direction. The first of the two MAX disasters came when an inexperienced Indonesian crew faced an unexpected glitch in software designed to protect them from their own mistakes while flying the plane by hand, which is rarely required. The second came when an Ethiopian crew, as instructed by Boeing, turned off the same system when it acted up and yet proceeded to commit a series of errors that doomed the aircraft anyway.
+
+Because learning occurs, Boeing will get its engineering and production snafus straightened out or it won’t survive in present form. Meanwhile, in the air, thanks to advances in reliability and redundancy, aviation disasters increasingly consist of flyable planes being flown into the ground accidentally or intentionally—eight major crashes in the past 30 years have been due to pilot suicide. Before putting a novel generation of aircraft in the hands of airlines already struggling to find enough pilots, a question may need hashing out: What is the role of the pilot in the plane of the future?

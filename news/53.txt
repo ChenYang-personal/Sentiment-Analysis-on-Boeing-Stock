@@ -1,0 +1,98 @@
+Why the FAA Still Can’t Fix Boeing
+The current system relies on the plane maker, not regulators, to ensure that jets are produced properly; ‘We’re not their quality department’
+
+Updated Feb. 6, 2024 1:03 pm ET
+
+Save
+
+Share
+
+Text
+694 Responses
+
+Explore Audio Center
+After two Boeing 737 MAX crashes five years ago that killed everyone aboard both jets, air-safety regulators cranked up the heat on the plane maker.
+
+The Federal Aviation Administration, under fire for being too soft on Boeing BA -1.27%decrease; red down pointing triangle, assigned more people to oversee the company’s production. FAA inspectors, not Boeing’s own employees, would now do the final safety check on each 737 MAX. Boeing would add back quality inspections it had stopped doing. Two FAA inspectors would keep tabs on Spirit AeroSystems, Boeing’s troubled supplier of door plugs and other equipment. 
+
+When the problem-plagued 737 MAX was finally cleared to fly again in 2020, the FAA’s then chief Steve Dickson called it “the most heavily scrutinized transport aircraft in aviation history,” telling reporters: “I am fully confident that the aircraft is safe, and I would put my own family on it.”
+
+Those comforting words look a lot less reassuring after a door plug blew out midair on an Alaska Airlines 737 MAX on Jan. 5, and it emerged that the plane likely had rolled off the factory floor weeks earlier without the bolts necessary to hold it in place. “That can’t happen,” Dickson, now a consultant, said on Saturday about the blowout. He still believes the aircraft is safe, he said, “but that assumes they’re put together properly.”
+
+On Sunday, Boeing said it would have to rework 50 undelivered 737 MAX jets because of newly discovered misdrilled holes.
+
+Now the same old questions are resurfacing about the effectiveness of the FAA and its largely hands-off regulatory system for overseeing Boeing. The agency has so few people watching over Boeing relative to the size of its production operations that a former government official familiar with the oversight likened the process to looking through a keyhole.
+
+
+Passengers near a hole in the fuselage of an Alaska Airlines Boeing 737 MAX in which a door plug blew out midair on Jan. 5. Photo: Kelly Bartlett/Associated Press
+Boeing employs more than 12,000 in Renton, Wash., where 737s are assembled. The FAA had eight inspectors assigned to the plant there late last year, up from two in 2018, according to the former government official. 
+
+“That’s not enough people to monitor the restaurant operations at the site,” said Ed Pierson, a former senior Boeing production manager who raised concerns about quality problems at the 737 factory after the crashes. 
+
+On Tuesday, current FAA chief Mike Whitaker told a House panel: “The current system is not working. It is not delivering safe aircraft. So we have to make changes to that.”
+
+Some of the changes made in 2020, in retrospect, weren’t adequate, he said. In light of the Alaska blowout, he said, “It’s hard to call that oversight sufficient.”  
+
+Whitaker said the FAA would take a more hands-on approach to overseeing Boeing, including adding more inspectors for factory floors to better understand the realities of production and pressures workers face.
+
+Boeing Chief Executive David Calhoun said last month: “This increased scrutiny that comes from us or our regulator or from third parties will make us better. It’s that simple.”
+
+Already, the FAA has sent more inspectors to monitor Boeing, launched an enforcement probe and begun a broader audit of the company’s manufacturing. It has imposed new limits on 737 MAX production, which could delay when airlines get new jets.
+
+“I thought I fixed the system, but clearly, I didn’t,” said former U.S. Rep. Peter DeFazio, who led a congressional probe beginning in 2019 into the 737 MAX crashes. That investigation led to new protections for the Boeing employees who work on behalf of the FAA, aiming to shield them from management pressure.
+
+The system still relies on Boeing, not the FAA, to ensure that planes are produced properly. FAA inspectors have only a small presence in Boeing’s factories. “We’re not their quality department,” said a former senior agency official.
+
+Boeing employees working on behalf of the FAA are supposed to make sure the company adheres to federal safety rules. Those company-employed inspectors are supposed to answer to the FAA, but some of them have reported that they have felt pressure from their Boeing bosses. Boeing has said it tells employees that their colleagues who answer to the FAA should be treated with the same respect and deference as the regulator.
+
+
+The regulatory system relies on Boeing, not the FAA, to ensure that planes are produced properly. A 737 MAX aircraft, above, at the Boeing factory in Renton, Wash., in 2019. Photo: lindsey wasson/Reuters
+Much of FAA inspectors’ job nowadays involves reviewing paperwork and analyzing Boeing’s quality-control system, not physically inspecting aircraft. At the Renton factory, Boeing employees who represent the FAA are performing nearly all the checks to determine whether new aircraft meet federal safety standards, current and former government officials said.
+
+FAA rules require inspectors to announce many audits of the company’s production systems months in advance, allowing Boeing time to prepare. FAA deputy safety chief Jodi Baker said announced audits can be helpful so Boeing has the right people and documents available. The agency can conduct unannounced audits as well. 
+
+Last summer, the FAA assigned two senior inspectors to keep tabs on Spirit AeroSystems, a Wichita, Kan.-based supplier that initially installed the plug door on the Alaska jet’s fuselage. Spirit has been the source of various Boeing production problems in recent years. A Spirit spokesman said the supplier welcomes FAA oversight and is focused on the quality of its products.
+
+For decades, the FAA has delegated certain responsibilities to the aerospace manufacturers it oversees, often with the support of lawmakers. In the early 2000s, the agency began giving companies such as Boeing an even bigger role. 
+
+
+A 737 MAX fuselage, delivered from Spirit AeroSystems, outside a Boeing Factory in Renton, Wash. Spirit has been the source of various Boeing production problems in recent years. Photo: Paul Christian Gordon/Zuma Press
+Some FAA employees worried that the new system would reduce the role of agency engineers in Boeing’s work to design and build new aircraft, said Stan Sorscher, a former Boeing physicist who later worked for the union representing the company’s engineers in the Seattle area.
+
+The new structure established what is now known as the Organization Designation Authorization, or ODA. Boeing’s ODA unit employs about 250 inspectors who represent the FAA on Boeing factory floors and at suppliers.
+
+The FAA inspectors’ union, now known as the Professional Aviation Safety Specialists, warned in a 2004 public letter that delegating more authority to manufacturers would effectively let the fox guard the henhouse. 
+
+“It allows them to have planes going out the door without an actual FAA person ever looking at it,” Jim Pratt, a retired FAA inspector and former union official, said in a recent interview.
+
+The 737 MAX crashes in 2018 and 2019 exposed flaws in the regulatory approach. Accident investigators blamed a faulty flight-control system known as MCAS for sending the planes into fatal nosedives. Boeing engineers had developed the system with little FAA input or review.
+
+In response to those crashes, the FAA took steps to tighten its oversight of how Boeing assembled the aircraft. It revoked Boeing’s authority to conduct final safety checks on newly produced 737 MAX jets and to issue airworthiness certificates on the agency’s behalf. The FAA has held on to those tasks since then. 
+
+
+The site of a 737 MAX crash near Bishoftu, Ethiopia, in 2019. Photo: Mulugeta Ayene/Associated Press
+The agency staffed up its Boeing oversight office. The FAA said it has pushed the company to stop using statistical sampling methods called “process monitoring” and “process surveillance.” At one meeting, FAA officials told Boeing representatives that they wouldn’t be allowed to continue the practice because they couldn’t do it right, according to the former government official. The FAA ordered Boeing to restore the quality inspections it had discontinued.
+
+Separately, FAA officials worked with Boeing to start a voluntary reporting system aimed at addressing emerging safety problems. Similar systems at airlines are credited with reducing accidents. 
+
+The FAA has had difficulty gauging whether its oversight has worked. According to an internal 2022 survey reviewed by the Journal, 83% of responding FAA employees said they couldn’t determine whether their actions prevented repeat violations of federal safety rules. The FAA said it has told managers to follow up with employees on compliance actions.
+
+Problems with Boeing manufacturing continued after the 737 MAX crashes. The 787 Dreamliner, a wide-body aircraft produced in South Carolina, had numerous production flaws that FAA officials worried might result in safety problems. Boeing halted delivery of those jets for nearly two years and took some jets out of service briefly while defects were addressed.
+
+FAA officials discussed whether to use its control of Boeing’s production certificate to limit how many planes it could produce a month, but decided not to do so. Signs later emerged that production was improving.
+
+
+An Alaska Airlines 737 MAX jet being inspected in San Diego following the Jan. 5 incident. Photo: Toby Harriman
+The Alaska Airlines accident has prompted the FAA to once again stiffen its public posture amid an investigation into the accident. It has capped Boeing’s production to 38 MAX jets a month, and said it won’t approve an expansion of a fourth production line to a factory in Everett, Wash., until it is satisfied the company’s quality-control system has improved.
+
+The FAA said it is sending 20 more inspectors to Boeing’s Renton factory and six more to Spirit’s facility in Wichita, and that it could add more as needed.
+
+Whitaker, who became the FAA chief last fall, said in the interview that the manufacturing problems had “gone on for too long, and I think we need to have a more intensive effort to get this resolved, immediately.”
+
+Boeing said it has increased its number of inspectors in its commercial-jet unit by 20% since 2019.
+
+Calhoun, the CEO, said the company has begun conducting more inspections at its Renton factory since the Alaska accident and already is learning from its mistake. Airlines have said they are sending their own inspectors to the 737 factory, a sign they don’t fully trust Boeing’s pledges to improve—or the FAA’s oversight. 
+
+The agency also has increased monitoring of problems with 737 MAXs currently flying passengers. Industry and former government officials wonder whether other defects might have slipped through. 
+
+“What about all those hundreds of planes that left the factory without those inspections?” Pierson said. “They’re out there.”

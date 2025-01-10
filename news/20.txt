@@ -1,0 +1,92 @@
+What We Learned About Boeing From the Probe Into Alaska Airlines 737 MAX Blowout
+Employees describe ongoing factory problems and landing in ‘jail’ after internal safety reports
+By 
+Andrew Tangel
+Aug. 7, 2024 8:22 pm ET
+
+
+
+
+
+Gift unlocked article
+
+Listen
+
+(7 min)
+
+
+Federal Officials Grill Boeing Execs on Lapses Leading to Door Blowout
+You may also like
+Federal Officials Grill Boeing Execs on Lapses Leading to Door Blowout
+Federal Officials Grill Boeing Execs on Lapses Leading to Door Blowout
+Play video: Federal Officials Grill Boeing Execs on Lapses Leading to Door Blowout
+The NTSB questioned officials from Boeing and supplier Spirit AeroSystems on safety culture, part of an investigation into what caused the Alaska Airlines 737 door blowout. Photo: Kaylee Greenlee Beal/Reuters
+Factories are still a major source of safety concerns at Boeing BA -1.76%decrease; red down pointing triangle, according to testimony from current and former company employees, contractors and regulators at a federal hearing this week.
+
+In testimony over two days, one worker said Boeing managers displayed a “push-push-push” attitude to complete work in factories. The employee also said speaking out about safety problems risks reassignment. A former Federal Aviation Administration official also said Boeing makes improvements in factories only after regulators get tough.
+
+The hearing was part of the National Transportation Safety Board’s probe into why a door plug flew off a Boeing 737 MAX plane midair on Jan. 5. Accident investigators have said the jet left the company’s Renton, Wash., factory without critical bolts to hold the fuselage panel in place. Alaska Airlines Flight 1282 landed in Portland, Ore., roughly 30 minutes after takeoff without any major injuries to passengers and crew.
+
+The door-plug debacle spawned more stringent federal oversight of Boeing’s manufacturing operations and leadership changes at the plane maker. The company recently pleaded guilty to conspiring to mislead air-safety regulators in connection with deadly MAX crashes in 2018 and 2019.
+
+
+The top section of the door plug from Alaska Airlines Flight 1282, showing damaged bolts at the top right corner. Photo: Manuel Balce Ceneta/Associated Press
+“A healthy management-employee relationship is based on trust, treatment and transparency,” NTSB Chair Jennifer Homendy said Wednesday. “I don’t see these here.”
+
+Boeing executives testifying this week said the company needs to accelerate changes to improve its safety culture.
+
+Here are some of the revelations from the two-day hearing:
+
+Workers offer a dim view of the company’s safety practices
+Problems associated with inexperienced employees, out-of-sequence production work and hard-driving managers weigh on Boeing’s ability to operate its factories properly, according to testimony gathered in the probe, even while regulators and company executives press for improvements.
+
+A Seattle-area employee on a crew that specializes in removing and reinstalling door plugs described Boeing’s safety culture as “garbage. Nobody’s accountable.” He cited persistent debris and tools strewn about the factory.
+
+Workers are pushed to keep production at a steady pace, the employee said. “Here, it’s just push-push-push, push-push-push, push-push-push, you know,” the employee said.
+
+The employee said he didn’t think Boeing’s internal reporting system protected employees from retaliation, and complained that he had been reassigned during the NTSB investigation to an area he described as “literally in a jail, in a cage.”
+
+
+The door plug that fell from Alaska Airlines Flight 1282 in January in Portland, Ore. Photo: Associated Press
+Elizabeth Lund, a senior vice president for quality at Boeing, said she wasn’t aware the area was known as “Boeing prison.” She said the company typically reassigns employees during safety investigations, and said the employee in question was given a lateral transfer with the same pay, shift and benefits.
+
+Lloyd Catlin, an official in Boeing’s machinist union, said Wednesday that such transfers send a clear punitive message to the workforce: “We see it all the time.”
+
+Boeing had problems with improperly removing airplane parts before Alaska Airlines incident
+Boeing conducted a safety risk assessment on how workers remove parts like door plugs during the manufacturing process without proper documentation. The FAA had previously prodded the company to address the problem.
+
+The plane maker had undertaken corrective actions and issued a quality alert on the subject in July 2023, just two months before the jet involved in the accident rolled out of its Renton factory. 
+
+Boeing workers cited confusion about requirements for conducting so-called “removals” of critical airplane parts. The crew lead said the manager of the group involved with removing and reinstalling door plugs was new to his role and “doesn’t really understand doors.”
+
+Lund, the Boeing executive, acknowledged the company needs to do better with removals. Aerospace manufacturing requires extensive documentation, particularly when critical parts are removed from aircraft during production.
+
+“We need to do more” to simplify the process and ensure that employees understand it, Lund said.
+
+
+The hole where a paneled-over door had been on the Alaska Airlines flight that made an emergency landing earlier this year. Photo: Associated Press
+Boeing is slow to change, even with regulators watching
+Jim Phoenix, who managed the FAA office overseeing Boeing’s manufacturing until he retired in December, said it is a heavy lift to prod the company to improve. “You need a lot of leverage to get Boeing to change and then when Boeing changes, it’s very slow and it took a long time for them to really understand that their quality system needed to improve.”
+
+Phoenix said he saw improvements after the agency forced Boeing to add back quality inspections. “There was a lot of improvement that was needed,” he told NTSB investigators. “I’m sure there still is.” 
+
+Door-probe blowout probe found a separate problem on Boeing jet
+The Alaska accident exposed other manufacturing flaws. Nearly all the oxygen generators above where passengers sit shifted during flight, because of defective adhesive, according to the NTSB. After the accident, the FAA ordered airlines to inspect oxygen canisters on more than 2,600 Boeing 737s, noting the potential risk to passengers who could need assistance breathing during an in-flight emergency. 
+
+What Unfolded Inside Alaska Airlines Flight Before Emergency Landing
+You may also like
+
+FROM THE ARCHIVE (1/8/24): A section of an Alaska Airlines flight that ripped away shortly after takeoff was found. Here’s a timeline of what unfolded following the aircraft’s midair incident. Photo: National Transportation/Planet Pix/Zuma Press
+Paul Wright, a Boeing safety executive, said the company’s analysis found that shifting of the canisters didn’t prevent passengers from getting oxygen.
+
+Separately, a warning light about pressurization that activated before the door plug blew off was the result of a faulty computer chip, according to the NTSB. Earlier in the investigation, there were questions about whether the alert was an early sign that the fuselage panel wasn’t being properly installed.
+
+Why was no one seated next to the door plug?
+Luck, it turns out. There were two plane seats next to the door plug that blew out midflight. 
+
+The passengers who were assigned to seats 26A and 26B “were late arriving to the airport and were rebooked on a later flight,” according to the NTSB.
+
+Boeing plans new door plug design for planes 
+Lund, the Boeing executive, said the company was working to add sensors to door plugs that would alert crews that the fuselage panels might not be properly secured. Such sensors would be similar to those on actual emergency-exit doors installed on aircraft.
+
+Wright said Boeing, after the Alaska accident, has also identified other potential design changes to address so-called single-point failures that might need added safeguards.

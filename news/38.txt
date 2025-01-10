@@ -1,0 +1,93 @@
+Boeing’s Latest Trouble Is a Jet Part Caught Up in Russia Sanctions
+Plane maker can’t deliver enough 787 Dreamliners after sanctions disrupted production of heat exchangers
+By 
+Sharon Terlep
+Follow
+May 3, 2024 5:30 am ET
+
+
+
+
+109
+
+Gift unlocked article
+
+Listen
+
+(5 min)
+
+
+
+Boeing is trying to increase production of its 787 Dreamliner. Photo: juliette michel/Agence France-Presse/Getty Images
+Boeing BA -0.12%decrease; red down pointing triangle has more parts trouble, but this time it doesn’t stem from manufacturing snafus or the 737 jet. The blame goes to Russia sanctions still rippling through the jet maker’s supply chain.
+
+In the opening days of Russia’s invasion of Ukraine, a maker of a temperature-regulating part for Boeing’s 787 Dreamliner ceased its Russian operations and shifted production west. At the time, Boeing was building so few of the jets that the supplier, RTX RTX -0.01%decrease; red down pointing triangle, was able to keep up with demand.
+
+But now the jet maker is trying to increase production of the wide-bodies, and RTX’s new factory lines in the U.S. and U.K. aren’t making enough.
+
+Why Boeing’s Quality Controls and Plane Safety Checks Still Miss Mistakes
+You may also like
+Why Boeing’s Quality Controls and Plane Safety Checks Still Miss Mistakes
+Why Boeing’s Quality Controls and Plane Safety Checks Still Miss Mistakes
+Play video: Why Boeing’s Quality Controls and Plane Safety Checks Still Miss Mistakes
+Here’s a look at the layers of Boeing’s quality process and the issues each faces. Photo illustration: JJ Lin
+“When the invasion happened, it got moved, and the capacity of that supplier has not kept pace with us,” Boeing Chief Executive Dave Calhoun said this past month. 
+
+In a demonstration of how relatively simple glitches can reverberate through a global supply chain, Boeing’s inability to secure enough heat exchangers, a critical but relatively basic part akin to a radiator, in part led it to warn investors that it won’t deliver as many of the Dreamliner jets as anticipated this year.
+
+The slowdown will sap the company’s already strained cash flow, with fallout extending to airlines and the flying public. 
+
+
+RTX’s Collins Aerospace unit had been making heat exchangers as part of a joint venture with Hamilton Standard-Nauka in Russia. Photo: DPA/Zentralbild/Picture Alliance/Reuters
+American Airlines last week blamed Dreamliner delays in announcing moves to trim some international and long-haul routes this year and next. The airline, while not ending service to any destinations, will cut back on fall and winter flights on certain routes to Europe, South America and Hawaii and is ending some summer seasonal routes earlier than planned.
+
+Heat exchangers pull in cool air from the outside to prevent overheating. Each plane has several, which are used on a number of systems. The heat exchangers affected by the shortage help regulate the temperature of electronics on the plane, and for its environmental control system, which runs air conditioning and cabin pressurization. Jet engines also rely on heat exchangers, but those components aren’t affected by the delays.  
+
+Problem Part
+Boeing’s inability to secure enough heat exchangers has hampered production.
+
+Heat exchanger inlet
+
+Cabin air compressor inlet
+
+Heat exchanger exhaust doors
+
+Coolant flow
+
+Aircraft heat
+
+exchanger
+
+An aircraft requires multiple heat exchangers,
+
+the number varies by size.
+
+Air intake
+
+Source: Reuters (photo), International Society of Air Safety Investigators
+RTX’s Collins Aerospace unit had been making heat exchangers as part of a joint venture with Hamilton Standard-Nauka in Russia. RTX, previously known as Raytheon Technologies, ended the venture in March 2022 and shifted production to factories in Windsor Locks, Conn., and Wolverhampton, U.K. 
+
+The company needed to add lines to make the parts, which are in demand from plane operators that need them as replacement parts, as well as from Boeing and Brazil’s Embraer. 
+
+The plants kept up for many months when 787 production was either stalled or crept along. 
+
+
+Boeing’s 787 Dreamliner campus in North Charleston, S.C. Photo: POOL/REUTERS
+Deliveries of the plane were largely halted for nearly two years starting in 2020 amid various production and regulatory issues. Boeing didn’t deliver any of the jets for the first seven months of 2022. It rolled out 19 in 2022 and 28 in 2023, according to AIR, an aerospace-industry research company. 
+
+Boeing said this past week that the heat exchanger issue is in addition to a shortage of cabin seating, which is also holding back 787 production. Seat suppliers industrywide haven’t been able to keep up with demand for airplane seating, particularly for premium offerings, amid material shortages and certification delays. 
+
+Calhoun said the seating issue will likely take longer to resolve than the heat exchanger shortfall, which he described as discrete, well understood and known.
+
+
+Jet manufacturing was among the sectors more severely affected by sanctions imposed on Russia.  Photo: logan cyrus/Agence France-Presse/Getty Images
+The company said production will slow in the coming months but that it aims to return to rolling out five a month by the end of the year. Boeing delivered 13 787s this year through March. 
+
+SHARE YOUR THOUGHTS
+What will be the impact of continuing supply chain issues for Boeing? Join the conversation below.
+
+Jet manufacturing was among the sectors more severely affected by sanctions imposed on Russia, a big player in the global aerospace supply chain. 
+
+Boeing cut ties with a major Russian titanium supplier with which it had launched a joint venture to develop key airplane parts. The company also has halted selling spare parts and maintenance services to Russian airlines that operate its jets.
+
+The 787 holdup comes as Boeing is delivering roughly one-third as many 737 MAX jets as it was at the end of last year as the company works out manufacturing issues following January’s Alaska Airlines door-plug blowout.

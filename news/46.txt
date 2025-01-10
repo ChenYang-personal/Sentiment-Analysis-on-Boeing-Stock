@@ -1,0 +1,75 @@
+American Manufacturers Seek Perfection as Quality Issues Mount
+Ford, Spirit AeroSystems and other companies are using artificial intelligence and other tools in pursuit of zero defects
+By 
+John Keilman
+Follow
+March 18, 2024 5:30 am ET
+
+
+
+
+207
+
+Gift unlocked article
+
+Listen
+
+(6 min)
+
+
+
+Ford has used assembly-line artificial intelligence and extensive test drives to catch problems in Super Duty trucks. Photo: Jeff Faughender/Courier Journal/USA TODAY/Reuters
+Imagine a world in which every product that leaves a factory is flawless, every time. 
+
+What sounds like a plant manager’s dream is the end goal of zero-defect manufacturing, an idea that is gaining traction among industry executives. Surging recalls and high-profile problems like the door plug that blew off a Boeing jet midflight in January have cast a harsh light on the quality of American manufacturing. But some companies say a combination of technology, training and focus can eliminate errors.
+
+Ford Chief Executive Jim Farley has said the automaker must reach “a zero defect destination,” telling investors last year the company has used assembly-line artificial intelligence and extensive test drives to catch problems in Super Duty trucks. Stellantis, which is similarly targeting zero defects, said more than 100 new quality standards have led to a double-digit percentage drop in warranty claims.
+
+Companies in industries as varied as pharmaceuticals and snack foods have announced zero-defect goals, as has Brewer Science, a Missouri-based maker of chemicals and materials used in semiconductors that calls itself “a pioneer of perfection” in a promotional video.
+
+The company said it has reduced impurities such as aluminum ions to less than one part per billion through exhaustive measurement and testing. Chief Operating Officer Srikanth Kommu said its definition of defects is growing more stringent. 
+
+“What’s good enough today is not good enough for tomorrow,” Kommu said.
+
+
+A 737 MAX fuselage; the Federal Aviation Administration announced increased oversight of Boeing production following the Alaska Airlines midflight incident in January. Photo: Paul Christian Gordon/Zuma Press
+More manufacturers say they are aiming for perfection as quality-control problems have mounted. The newsletter Warranty Week found that in 2022, vehicle makers spent record amounts on warranty claims. Recalls announced by the Consumer Product Safety Commission, a federal agency, hit a six-year high in 2023. 
+
+Sedgwick, a firm that assists companies with recalls, found recalls jumped last year among pharmaceutical and food manufacturers. Sedgwick Senior Vice President Chris Harvey said undertrained workers, the increasing complexity of products and more sprawling supply chains are contributing to quality problems. 
+
+Spirit AeroSystems SPR -0.69%decrease; red down pointing triangle, which makes fuselages for Boeing BA -0.12%decrease; red down pointing triangle, has been battered by quality issues. CEO Pat Shanahan has said the company’s goal is “to achieve perfection,” and it has begun an initiative to get there within the next 12 months.
+
+Sean Black, Spirit’s chief technology officer, said the program aims to simplify the manufacturing process. The company will use drill templates that are color-coded, with the appropriate tool, preset at the correct speed, matching that color. 
+
+Spirit will also automate manual tasks, such as attaching thousands of fasteners in the nose and tail sections. Scanners will search for deviations in the final product while capturing every inch of the fuselage.
+
+
+Brewer Science, a Missouri-based maker of chemicals and materials used in semiconductors, calls itself a pioneer of perfection. Photo: Brewer Science
+“Instead of giving an inspection report, we can actually provide that digital image directly to our customer,” Black said.
+
+The zero-defects philosophy took shape in the early 1960s when defense contractor Martin sought to eliminate errors from Pershing missiles. The company had relied on inspections to find problems as small as a loose valve but refocused on prevention, exhorting workers with posters and rallies to do their jobs right the first time—followed by extensive audits.
+
+Martin’s quality director, James Halpin, wrote in a book about the initiative that errors plunged as hundreds of employees racked up long streaks of perfection. One solderer made nearly 500,000 connections without a mistake, he wrote, while another worker put together 50,000 defect-free assemblies.
+
+Many companies adopted the practices, but decades later quality control remains problematic. Robert Leachman, a professor of industrial engineering and operations research at the University of California, Berkeley, said while quality programs helped U.S. companies improve their products considerably in the 1980s and 1990s, the effort stalled when businesses began outsourcing much of their work to low-cost regions.
+
+
+At Schneider Electric, employees are encouraged to speak up about product quality, anonymously if desired. Photo: Schneider Electric
+“Roughly speaking, I suppose we are about where we were at the end of the 1990s with respect to quality,” he said.
+
+Joseph Delaney, vice president of quality at Hatch Stamping, said the Michigan-based auto-industry manufacturer has made huge strides. Hatch uses robotic vision systems and sophisticated sensors to find and contain defective parts. 
+
+The company is exploring AI applications that could further improve error detection, though Delaney said getting to absolute zero will be challenging given the complexity of the parts and the number of things that could go wrong.
+
+The technology and processes adopted in pursuit of zero defects can be expensive, though some companies, such as industrial-parts maker Parker Hannifin, have said their initiatives save money. Mary Litteral, an auto-industry veteran and consultant who trains companies in zero-defect principles, said the cost of poor quality can equate to at least 10% of sales once all factors, including the time spent dealing with problems, are taken into account.
+
+SHARE YOUR THOUGHTS
+Do you think it is possible for large companies to achieve a zero-defect standard? Why or why not? Join the conversation below.
+
+The zero-defect regimen of Schneider Electric, which makes products for the energy industry, includes torque wrenches that indicate when the correct tension is reached and AI tools that find anomalies. Aamir Paul, the company’s president of North America operations, said the company encourages employees to speak up—anonymously, if they prefer.
+
+Human error is a perennial cause of defects, but Litteral said it can be taken out of manufacturing systems. A machine can be built so it is impossible to load a tool backward, she said, or an adhesive dispenser designed so it shuts off when it runs dry.
+
+Daniella Picciotti, a quality auditor and the incoming chair of the American Society for Quality, a professional group, said companies usually focus on critical parts, with others inspected via sampling. That makes catching everything a huge challenge, she said, and even well-run manufacturing systems can be undone by new suppliers, new materials or new employees.
+
+“The risk of failure is inherent,” she said. “It’s always going to be there.”

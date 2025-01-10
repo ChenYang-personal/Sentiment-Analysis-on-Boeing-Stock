@@ -1,0 +1,120 @@
+Alaska Airlines Blowout Reveals Cockpit Door Vulnerability on Boeing Jet
+Door was designed to open during a decompression incident, but plane’s manual didn’t say so. Many experts didn’t know either.
+By 
+Nancy Keates
+Follow
+ and 
+Benjamin Katz
+Follow
+Updated Jan. 9, 2024 3:32 pm ET
+
+
+
+
+
+Gift unlocked article
+
+Listen
+
+(6 min)
+
+
+
+A Boeing 737 MAX 9 flight from Alaska Airlines made an emergency landing in Portland, Ore., after a section of the aircraft ripped away in midair on Friday. Photo: Mathieu Lewis-Rolland/Getty Images
+After an emergency exit-sized hole opened in the side of Alaska Airlines Flight 1282 at 16,000 feet, a separate chaotic episode erupted when the cockpit door mysteriously flew open.
+
+That meant the pilots were subjected to the deafening wind and noise from the back of the plane—and also made the cockpit accessible to anyone inclined to try to force their way in.
+
+What the flight crew didn’t know at the time, federal investigators said Monday, was that it was supposed to happen that way. Boeing BA -2.79%decrease; red down pointing triangle had designed the cockpit door to open during a rapid decompression incident, they said. The company just hadn’t said so in the manual.
+
+Investigators are looking at the fastening system used to secure a plug for an unused door that blew off an Alaska Airlines plane during flight.
+
+Door plugs are secured by
+
+pushing the plug down on spring-loaded hinges,
+
+closing the plug
+
+pushing the plug up into place on guide tracks and securing it with bolts
+
+1
+
+2
+
+3
+
+2
+
+3
+
+As the plug is pushed up
+
+into place, a guide track
+
+on the plug slips onto a
+
+roller pin affixed to the
+
+plane, where it is locked
+
+with a bolt and pin.
+
+Additional bolts are used
+
+on the hinges
+
+1
+
+Source: Boeing
+Adrienne Tong and Peter Champelli/THE WALL STREET JOURNAL
+Even veteran aviation-safety experts and former regulators said they weren’t aware of this design feature. Some said it appears to expose a security flaw that now must be addressed. 
+
+“There was a lot of energy put into getting those doors secured so they only open from the pilots’ side,” said Ray White, a former regional director of the Transportation Security Administration. “To find out that they blow out in an emergency, boy that is a vulnerability.”
+
+The aircraft’s cockpit is designed to open in circumstances akin to that experienced Friday night by the Alaska Airlines jet , according to the National Transportation Safety Board. The agency’s chair, Jennifer Homendy, said in a briefing Monday that Boeing is going to make changes to the manual, with the expectation that they would translate into procedures and information for the flight attendants and the cockpit crew.
+
+Boeing declined to comment.
+
+After the 9/11 attacks, officials with regulators including the TSA and Federal Aviation Administration worked with aircraft manufacturers to determine how to secure cockpits and prevent unauthorized actors from potentially accessing the flight controls. An exception was developed where in very rare cases of extreme and rapid depressurization of either the cockpit or cabin, the cockpit door would open to allow enough air to flow between the two areas of the aircraft.
+
+Regulators determined that the risk of bad actors successfully breaching the cockpit under those conditions posed a reasonably small risk to flight safety.
+
+An FAA representative didn’t immediately respond to a request for comment.
+
+
+A chunk of the plane blew out at row 26 of Alaska Airlines Flight 1282.  Photo: Kelly Bartlett
+A spokeswoman for the European Union Aviation Safety Agency said it was aware of the feature, designed “to prevent the loss of the aircraft,” in its certification process. She added that the “risks of potential manipulation through bad actors have been adequately considered.”
+
+EASA would wait for the detailed report of the investigation into the Alaska Airlines accident on Friday before determining whether to take any action in connection with the door, the spokeswoman said.
+
+The surprise opening of the cockpit door is among the details that have led investigators at the NTSB to conclude the incident last Friday was even more chaotic and challenging for the crew than initially thought.
+
+And it also shows how the ramifications from the incident are still being revealed. 
+
+“They’ll have to go back and revisit the whole security piece of this,” White said. “Once you put it out in the public domain and the bad guys now know that’s a potential area they can exploit, then I think you have to take some additional steps now.”
+
+In her description of the accident late on Monday, Homendy said after the hole in the fuselage opened, flight attendants seated in the back of the plane couldn’t see what was going on in the aisles, their line of sight blocked by bulkheads. Those in the front of the plane could barely hear. 
+
+The captain and the first officer described a loud environment, chaotic. At the time they heard a bang. They had some pressurization changes in their ears. 
+
+“It was very loud and windy,” Homendy said. “They had trouble hearing each other, they had trouble hearing air-traffic control and they had trouble communicating during the event.” 
+
+The cockpit door hit the lavatory door and the lavatory door became stuck, she said. It took the flight attendants three tries to close the cockpit door. 
+
+A laminated checklist with steps on what to do in major events flew out of the cockpit and the captain lost a portion of her headset. While a flight attendant scrambled to close the door, the pilots fought to hear each other and air-traffic controllers over the wind and noise. 
+
+They were able to use a bound handbook to go through the emergency checklist.
+
+As a result, the crew was left fighting a crisis with little to go on and huge challenges to communication.
+
+“This was a really significant event with zero information at the time,” Homendy said.
+
+She said the event was psychologically terrifying and that the flight attendants are receiving counseling. She called the actions of the crew “heroic.” 
+
+Andy Blackwell, a London-based aviation consultant and former head of security for Virgin Atlantic, said he wasn’t aware of the design feature that caused the cockpit door to open. He said he believes security upgrades will be required. 
+
+“The flight deck is sacrosanct, if that’s breached sadly we know what can happen,” he said. “If it’s something that can be contrived, you can create a situation where the aircraft can be depressurized.”
+
+Desmond Ross, an aviation and security analyst at Pegasus Aviation in Dublin, likewise said that he hadn’t heard of it. “No one wants the door open on the descent into the airport.”
+
+He said it was critical for pilots to be properly informed of measures that can affect them in the cockpit. “Pilots need to know, they need to know all this stuff.”

@@ -1,0 +1,188 @@
+The Disarray Inside Boeing’s 737 Factory Before the Door Plug Blowout
+Factory logs indicate missed procedures, confusion and delays during the production of the jet that later burst open in flight
+The Boeing 737 MAX after it lost a panel during a flight on Jan. 5.
+The Boeing 737 MAX after it lost a panel during a flight on Jan. 5. NTSB/Associated Press
+By Andrew TangelFollow
+ and Sharon TerlepFollow
+April 2, 2024 12:01 am ET
+
+Save
+
+Share
+
+Text
+532 Responses
+
+Explore Audio Center
+Last year, work inside Boeing’s BA -0.12%decrease; red down pointing triangle Renton, Wash., factory stalled on a future 737 MAX jet then known as Line No. 8789. Pressure was building. 
+
+More than two weeks had passed since workers on Sept. 1 flagged damaged rivets on a fuselage that needed fixing. The section had been assembled by supplier Spirit AeroSystems in Wichita, Kan., and shipped by train to Boeing’s plant.  
+
+Targets for completion came and went before employees escalated the situation to “Tier 3” priority, a move intended to get high-level attention at the factory, according to an internal Boeing log of employees’ push to finish the jet—the same one that would later lose its door plug panel in a near tragedy in flight just months later. 
+
+Punctuating how the situation was escalating with dollar signs, an internal message read: “$$TIER-CHG: 2 – 3 $$,” according to a Sept. 17 entry in the Shipside Action Tracker, or SAT, reviewed by The Wall Street Journal. The SAT is like a factory Slack channel for fixing a production problem. 
+
+The communications of the Boeing employees working on the door plug, previously unreported, help illuminate why it blew off during an Alaska Airlines flight on Jan 5.
+
+The factory was in disarray. Crews were unable to keep a schedule and apparently didn’t follow procedures, and production pressure mounted as delays piled up, according to entries in the SAT, people who have reviewed the logs and interviews with Boeing employees who worked on the plane.
+
+In their logs, workers extended 50 times the estimated time for completing work on the damaged rivets around the frame of the door plug. The delays ranged from a half-hour to days. The work was finally signed off on and officially completed by the morning shift on Sept. 20, after a final quality check was requested the previous day, the records show. 
+
+The production breakdown had stunning consequences: The jet’s door plug blew off in flight, triggering an explosive loss of cabin pressure that risked the lives of passengers who could have been sucked out midair. It has sparked federal probes, including a criminal investigation, and hastened the exit of senior leaders including Chief Executive David Calhoun, who had vowed to improve Boeing’s safety and quality.
+
+A Boeing spokesman said the company is prohibited by federal rules from discussing the investigation and referred to recent remarks by executives that they will slow down the factories to focus on quality and will take new steps to prevent problems from being pushed down assembly lines. The company is in talks with Spirit to acquire the company in an effort to rein in the supplier’s quality issues and also recently changed its bonus plan for 100,000 workers to emphasize quality and safety over meeting financial targets.
+
+
+Boeing 737 fuselages outside the Boeing factory in Renton, Wash. Photo: David Ryder/ZUMA PRESS
+“For years, we prioritized the movement of the airplane through the factory over getting it done right,” Brian West, Boeing’s finance chief, said at a recent investor conference. “That’s got to change. The leadership team got it in the immediate aftermath of January 5.”
+
+The SAT logs show that a fix for the damaged rivets was in the works for days, and that workers had to wade through layers of management to get the problem addressed. That task required opening or removing the door plug, which was installed in place of an unused emergency exit. 
+
+The workers discussed what documentation was required if they opened or removed the plug. “If removal needed, a removal needs to be written first,” one staffer wrote on Sept. 17. Altering airplane parts requires documentation in the heavily regulated and safety-focused world of aerospace manufacturing.
+
+No such documentation appears to exist, however, Boeing has told U.S. lawmakers and accident investigators who have since been probing why the door plug blew off. The National Transportation Safety Board has said workers appear to have failed to replace four critical bolts needed to keep the panel in place. 
+
+The SAT records show a manager communicated that a mechanic was opening the door plug, however. 
+
+The NTSB has said investigators haven’t been able to interview the manager who oversees the team of Renton employees responsible for door work. The safety board has said the manager is out on medical leave. 
+
+Why Boeing’s Quality Controls and Plane Safety Checks Still Miss Mistakes
+You may also like
+Why Boeing’s Quality Controls and Plane Safety Checks Still Miss Mistakes
+Why Boeing’s Quality Controls and Plane Safety Checks Still Miss Mistakes
+Play video: Why Boeing’s Quality Controls and Plane Safety Checks Still Miss Mistakes
+Boeing was given 90 days to present regulators with an action plan to address quality-control issues at its 737 factory. Here’s a look at the layers of Boeing’s quality process and the issues each faces. Photo illustration: JJ Lin
+Starts and stops
+When Calhoun, a Boeing director and former GE executive, took over as Boeing’s CEO in January 2020, he promised change by improving safety and engineering. “It’s going to last for a long time, and it’s going to be healthy,” he told reporters at the time. Two 737 MAX jets had crashed, taking 346 lives and grounding hundreds of Boeing planes for 20 months.
+
+Then the pandemic grounded flights and halted factories at Boeing, rival Airbus and suppliers such as Spirit. By 2022, they were straining to meet a surge in demand for new jets as travel boomed. Boeing hired thousands of new staff and steadily increased 737 MAX production, and Calhoun issued financial targets that relied on plans for higher output. 
+
+Door plug crew works to finish jet for Alaska
+2021
+'24
+0
+10
+20
+30
+40
+50
+aircraft
+Last year, the factories were still running with stops and starts as the company worked to return to production levels seen before the MAX crashes. Boeing delivered 580 737s in 2018, the year of the first crash. 
+
+Calhoun was promising to deliver as many as 450 737s for 2023. Through August, Boeing had only delivered 271 of the jets. Airlines were frustrated and cutting schedules since they didn’t get expected planes. 
+
+“Is there pressure? Yes and no. We’re still there to do a job,” said one Boeing veteran who was involved with work related to the door plug on Line No. 8789. “I have a deadline every day, my team has a deadline every day, so if it gets behind schedule you have to get it on schedule.” 
+
+Behind the scenes, regulators at the Federal Aviation Administration and leaders of its factory workers’ union tussled with Boeing over its practices. The FAA and union pushed Boeing to add back second-party quality inspections that had been cut. 
+
+
+Boeing CEO David Calhoun after meetings on Capitol Hill after the blowout. Photo: Aaron Schwartz/Zuma Press
+In September, while the Renton team was working on Line No. 8789, Boeing’s output of 737 jets had fallen to the lowest levels in two years. Boeing delivered just 15 new 737s to the world’s airlines that month. Executives had been telling airlines and investors that it wanted to produce about 38 a month.
+
+The culprit was a separate issue from the rivets involved in the door plug. A defect in the rear of 737 fuselages supplied by Spirit had been discovered by Boeing the month before. Fixing the issue required inspecting and correcting misdrilled fastener holes in a key structural part. It had snarled production at Spirit, which in turn had delayed Boeing’s factories. 
+
+To keep things moving, Boeing kept accepting flawed fuselages from Spirit, including Line No. 8789. And the plane maker allowed unfinished tasks to flow through its factory—knocking production out of sequence in a practice called “traveled work,” which can increase the risk of slip-ups.
+
+“Years ago, we weren’t going this fast,” said the Boeing veteran who was involved with work related to the door plug on Line No. 8789. “I’m not saying fast caused the problem. Something happened. I don’t know what it was.”
+
+The Alaska 737 MAX had a door plug in place of an unused emergency exit. Investigators have said workers appear to have failed to replace four critical bolts needed to keep the panel in place.
+How Door Plugs Are Secured
+
+Guide track
+
+Door plugs are secured by
+
+pushing the plug down on spring-loaded hinges,
+
+closing the plug and
+
+pushing the plug up into place where it is secured on guide tracks
+
+1
+
+Pin
+
+Bolt
+
+2
+
+3
+
+As the plug is
+
+pushed up into
+
+place, a guide
+
+track on the
+
+door slips onto a
+
+pin affixed to
+
+the plane, where
+
+it is locked with
+
+a bolt and pin.
+
+2
+
+3
+
+1
+
+Source: Boeing
+Adrienne Tong and Peter Champelli/THE WALL STREET JOURNAL
+A second Boeing employee who was also involved with the same Alaska 737 MAX said he has never felt pressured to move too quickly. The company’s attention to quality and safety has improved significantly in recent years, and the mishap with Line No. 8789 has been weighing on the Renton workforce.
+
+“It’s a failure on all of us,” he said. “We all feel it.” 
+
+FAA officials have criticized what they have found upon closer inspection of Boeing’s Renton factory since the blowout. They have described an operation that appears to prize production schedules over safety and quality.
+
+FAA chief Mike Whitaker was particularly troubled he didn’t receive a safety briefing upon starting a tour of the factory, people familiar with the matter said. Such briefings are typical in manufacturing settings.
+
+‘Just painted over’
+When Boeing’s production system works according to plan, it typically takes a week or two for a 737 to make its way through final assembly at the Renton plant.
+
+The rivet flaw was flagged the day after Line No. 8789 arrived at Renton. After that it took 18 days, 12 hours and nine minutes to fix the damaged rivets and officially resolve the issue.  
+
+The SAT entries suggest an at times dysfunctional production environment complicated by delays in getting parts and red tape with Spirit, the error-prone supplier that Boeing once owned and is in talks to acquire. 
+
+Spirit workers were on site at Renton and tasked with resolving the rivet issue.
+
+
+A photo included in an NTSB report on the Jan. 5 accident shows the rivets around the frame of the door plug. Photo: NTSB
+Six days after workers flagged the damaged rivets on Spirit’s fuselage, an entry read: CONDITION STILL EXIST. RIVETS WERE JUST PAINTED OVER.
+
+Boeing wanted new rivets. Days went by, with Boeing workers noting difficulties spurring the Spirit personnel into action. “Damaged rivets are not acceptable and need to be removed and replaced,” read one Sept. 11 entry. 
+
+Two days later: “No Spirit work in progress,” read another entry, suggesting another extension. Then, on Sept. 14, Boeing employees escalated the situation to a higher level of attention for greater visibility. 
+
+Workers removed the door plug’s bolts to open it, which allowed access to the rivets. But there is no entry in the SAT log calling for the door plug’s reinstallation. 
+
+The absence of documentation has shocked current and former Boeing employees. An official “removal” process would have prompted Boeing’s quality-assurance team to check that the door plug had been properly reinstalled—with the bolts to keep the panel in place, they said.
+
+“I was, like, ‘What the hell?’ Boeing does a great job especially on documentation,” said the Boeing veteran who was involved with work related to the door plug. “If you take something out, you’ve got to write a removal.”
+
+
+Airplane fuselages bound for Boeing’s 737 MAX production facility at Spirit AeroSystems headquarters in Wichita, Kan., in 2019. Photo: nick oxford/Reuters
+Thousands of people work in the Renton facility on three production lines where half-built planes move between stations every evening. Risers lift workers to the body of the 40-foot-tall planes, where crews use specialized tools to complete hundreds of tasks. Below, workers sit in rows at computers tracking the progress. Boeing’s plan to add a fourth line has been put on hold by the FAA in the wake of the blowout.
+
+The team that works on doors and door plugs in Renton fluctuates between 20 and 30 workers. Some have spent decades at Boeing, others just a few months or years. They generally are split between two 8-hour shifts and can work on several planes a day. 
+
+Factory workers eventually secured new rivets for Line No. 8789, and by Sept. 19 a final target arrived. “Per Spirit management, this job is committed to be done today,” a SAT entry read.
+
+A Boeing quality manager was to assign a final inspection. The rivet problem was on track for review, and the issue was closed on Sept. 20. The jet continued to be worked on and inspected for another month.
+
+On Oct. 25, Boeing reported financial results. It booked a $1.64 billion third-quarter loss and lowered its 737 delivery goals for the year. It now expected to finish 375 to 400 of the jets, instead of as many as 450. Even that goal required the Renton factory to significantly ramp up production in the final weeks of the year.  
+
+
+The Alaska Airlines Boeing 737 MAX after it lost its door plug, shown on Jan. 23 in Portland, Ore. Photo: patrick t. fallon/AFP/Getty Images
+Calhoun sent a memo to employees that day, rebutting criticism of its production numbers. He told them that improved quality procedures and a culture that rewarded speaking up about problems meant the company was finding more things in need of repair. 
+
+“I have heard those outside our company wondering if we’ve lost a step,” Calhoun wrote. “I view it as quite the opposite.”
+
+Boeing delivered the jet known as Line No. 8789 to Alaska on Oct. 31. Eleven days later, the plane started flying passengers.
+
+Jim Oberman contributed to this article.
